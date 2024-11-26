@@ -1,0 +1,2 @@
+# Mastering-Semi-Structured-Databases-Advanced-MongoDB-and-JSON-Queries-on-LandmarksDB
+In this assignment, I worked as a JSON Data Analyst tasked with performing advanced queries on a MongoDB database called LandmarksDB, which contained data on landmarks from various countries. My goal was to extract, analyze, and report data based on specific criteria by leveraging MongoDB’s powerful querying capabilities.
